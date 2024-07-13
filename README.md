@@ -25,7 +25,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: (https://github.com/Junbol-Frontend-Mentor/nft-preview-card-component)
+- Solution URL: (https://github.com/Junbol-Frontend-Mentor/3-column-preview-card-component)
 - Live Site URL: (https://junbol-frontend-mentor.github.io/nft-preview-card-component/)
 
 ## My process
